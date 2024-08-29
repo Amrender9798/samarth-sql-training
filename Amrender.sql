@@ -1,5 +1,6 @@
 USE test;
 -- Welcome to the world of MySQL
+-- Welcome to the world of Database
 
 CREATE TABLE Students(
    student_id INT AUTO_INCREMENT PRIMARY KEY,
